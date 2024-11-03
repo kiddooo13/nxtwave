@@ -1,1 +1,1 @@
-# nxtwave
+# nxtwave profile project
